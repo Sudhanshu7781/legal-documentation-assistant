@@ -8,9 +8,6 @@
   - [Demo](#demo)
   - [Tech Stack](#tech-stack)
   - [File Structure](#file-structure)
-  - [Screenshots of Website](#screenshots-of-the-website)
-  - [Contributors](#contributors)
-  - [License](#license)
 
 ## About The Project
 
