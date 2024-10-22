@@ -8,7 +8,6 @@
   - [Demo](#demo)
   - [Tech Stack](#tech-stack)
   - [File Structure](#file-structure)
-  - [Getting started](#getting-started)
   - [Screenshots of Website](#screenshots-of-the-website)
   - [Contributors](#contributors)
   - [License](#license)
@@ -83,9 +82,6 @@ https://github.com/PritK99/Legal-Documentation-Assistant/assets/103848930/023f19
  ┃ ┣ 📄requirements.txt      
  ┣ 📄README.md
 ``` 
-
-## Getting Started
-
 ## Screenshots of the Website
 
 - #### Home Page
